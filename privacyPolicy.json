@@ -1,0 +1,60 @@
+{
+  "title": "Gedar Trader - Privacy & Terms Summary",
+  "effective_date": "2025-09-14",
+  "contact_whatsapp": "+91-8619386297",
+  "overview": "Gedar Trader operates a static information website for a welding shop that lists ready-made products and services. This website is strictly informational and does not provide user accounts, registrations, or any sign-in features. If a visitor wants to proceed with an enquiry, order or service request they MUST contact Gedar Trader via WhatsApp using the provided 'Chat with us' button or product contact links. This site DOES NOT collect personal data directly through forms on the website.",
+  "core_principles": [
+    "No user accounts, no logins, no registration.",
+    "No data is collected or stored by the website itself.",
+    "All enquiries are handled directly between the customer and Gedar Trader on WhatsApp.",
+    "The website and its developer do not act as a party to any sale, contract or service agreement — the customer transacts directly with Gedar Trader."
+  ],
+  "what_we_do_not_collect": {
+    "personal_information": "The website does not collect names, emails, phone numbers, addresses, payment details or any personally identifiable information via forms, sign-ups, or server-side storage.",
+    "analytics": "No first-party analytics or tracking scripts are installed by default. (If you add analytics later, update this policy.)",
+    "cookies": "The website does not set tracking cookies. Browser-native cookies used only for essential rendering (if any) are not used to track behaviour."
+  },
+  "how_contact_requests_work": {
+    "method": "All customer contact is through WhatsApp only. The website provides one or more 'Chat with us' buttons and product-specific contact links which open WhatsApp on the visitor's device.",
+    "message_prefill": "If you click 'Contact' from a specific product page, the website will open WhatsApp with a prefilled message that includes the product reference so Gedar Trader can understand your query quickly. Example prefilled text: 'Enquiry: [Product Name/ID] - I want more details / price / custom work.'",
+    "visitor_action_required": "You must send the WhatsApp message to initiate communication. The website does not automatically send messages or collect your WhatsApp number; the conversation happens on WhatsApp between you and Gedar Trader."
+  },
+  "whatsapp_handling_and_data_visibility": {
+    "what_gedar_trader_sees": "When you message Gedar Trader on WhatsApp you are sharing information directly with Gedar Trader. WhatsApp may store conversation metadata according to WhatsApp's own policies — this is outside the control of the website.",
+    "what_website_developer_sees": "The website developer does NOT have access to WhatsApp conversations, customer phone numbers, or any private messages exchanged between customer and Gedar Trader.",
+    "advice_to_customers": "Do not share sensitive personal or payment information over WhatsApp unless you are satisfied with the risk and have verified Gedar Trader's identity. Prefer in-person payment or verified payment channels as agreed with Gedar Trader."
+  },
+  "product_click_message_template": {
+    "description": "When a visitor clicks 'Contact' from a product page, Gedar Trader will be sent a message containing product identifier and optionally product name. This helps Gedar Trader respond faster.",
+    "example_prefill": "Hi Gedar Trader, I saw your product: [Product Name or ID]. I want to know price, availability and customization options. My preferred delivery location: [City]."
+  },
+  "third_party_links_and_external_content": {
+    "links": "The website may contain links to external websites (suppliers, social profiles, payment gateways). Gedar Trader is responsible for those third-party services. The website's developer is not responsible for third-party privacy practices or content.",
+    "responsibility": "Clicking external links takes you to external services governed by their own terms and privacy policies."
+  },
+  "no_return_no_guarantee_no_claim_policy": {
+    "plain_language_statement": "As requested by the client: NO RETURN. NO GUARANTEE. NO CLAIM.",
+    "explanation": "All sales, custom jobs or service agreements made through direct WhatsApp negotiation between a customer and Gedar Trader are governed by terms agreed at the point of sale. Gedar Trader does not offer returns, guarantees or claims through this website. Customers are expected to confirm product details, measurements and expectations directly with Gedar Trader before payment or service commencement.",
+    "customer_responsibility": "Customers must verify product suitability, dimensions, material, finishing and service scope with Gedar Trader before placing orders or making any payment."
+  },
+  "liability_and_disclaimer": {
+    "developer_liability": "The website developer provides only the static website as a technical service. The developer is NOT responsible or liable for product quality, delivery, services, disputes, losses, or damages arising from transactions between customers and Gedar Trader.",
+    "gedar_trader_liability": "Gedar Trader is the seller and service provider and is solely responsible for fulfilling orders, workmanship, service timelines and after-sales support. Any dispute must be directed to Gedar Trader via WhatsApp or other contact methods provided by Gedar Trader.",
+    "limitation_of_liability": "To the maximum extent permitted by applicable law, neither the website nor the developer will be liable for indirect, incidental or consequential damages resulting from the use of the website or any service/product purchased after contacting Gedar Trader."
+  },
+  "security": {
+    "website_security": "The website is static and does not store customer data. Standard hosting security applies. Visitors should ensure they use secure devices and up-to-date WhatsApp apps when contacting Gedar Trader.",
+    "advice": "Do not share bank details, OTPs, or sensitive personal data in WhatsApp chats unless you explicitly trust the recipient and have confirmed the payment or refund mechanism with Gedar Trader."
+  },
+  "changes_to_policy": {
+    "updates": "This policy may be updated from time to time. The 'effective_date' at top shows the latest revision. If major changes occur (for example, the website adds forms, logins or payment collection), Gedar Trader will update this JSON and publish a clear notice on the website.",
+    "visitor_responsibility": "Visitors are advised to review this policy periodically."
+  },
+  "governing_law_and_jurisdiction": {
+    "jurisdiction": "This policy and any disputes arising from use of the website shall be governed by the laws of India and subject to the jurisdiction of courts in the city where Gedar Trader operates unless otherwise agreed in writing."
+  },
+  "how_to_contact": {
+    "primary": "Message Gedar Trader on WhatsApp using the number listed in 'contact_whatsapp'.",
+    "alternative": "If you need to discuss policy issues with the website developer, contact details are not published here; the developer acts only as a technology provider and is not a party to transactions or disputes."
+  },
+}
