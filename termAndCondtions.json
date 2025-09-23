@@ -1,0 +1,53 @@
+{
+  "title": "Gedar Trader - Terms & Conditions",
+  "effective_date": "2025-09-24",
+  "acceptance_of_terms": "By accessing or using the Gedar Trader website, you agree to be bound by these Terms & Conditions. If you do not agree, please do not use this website.",
+  "use_of_website": {
+    "overview": "The website is intended for information purposes only. No user accounts, logins, or registrations are provided.",
+    "restrictions": [
+      "Do not attempt to hack, modify, or interfere with the website.",
+      "Do not copy, reproduce, or distribute content without permission.",
+      "Do not use the website for any unlawful or harmful purpose."
+    ]
+  },
+  "product_information": {
+    "accuracy": "All product information, pricing, and availability are provided for reference only. Contact Gedar Trader via WhatsApp to confirm details before placing any order.",
+    "updates": "Products, services, and descriptions may change without notice."
+  },
+  "ordering_and_payment": {
+    "process": "Orders are placed and confirmed directly through WhatsApp communication with Gedar Trader.",
+    "payment": "All payments must be made as agreed directly with Gedar Trader. The website does not process or store payments."
+  },
+  "user_responsibilities": {
+    "overview": "Visitors are responsible for verifying all product details, measurements, and service scope before confirming orders.",
+    "communication": "Ensure WhatsApp messages are correctly sent and received. The website is not responsible for lost or misdirected messages."
+  },
+  "third_party_links": {
+    "overview": "The website may contain links to external websites (suppliers, social profiles, payment gateways).",
+    "disclaimer": "The website developer is not responsible for third-party content, practices, or privacy policies."
+  },
+  "limitation_of_liability": {
+    "developer_liability": "The website developer provides only a static informational website and is not responsible for products, services, or disputes between users and Gedar Trader.",
+    "gedar_trader_liability": "Gedar Trader is solely responsible for fulfilling orders, product quality, and customer service.",
+    "indirect_damages": "Neither the website nor developer is liable for indirect, incidental, or consequential damages arising from website use."
+  },
+  "intellectual_property": {
+    "ownership": "All content on the website is the property of Gedar Trader unless otherwise stated.",
+    "restrictions": "Do not copy, modify, or distribute content without explicit permission."
+  },
+  "privacy": {
+    "overview": "This website does not collect personal data directly. All enquiries are handled via WhatsApp.",
+    "advice": "Do not share sensitive personal information in WhatsApp messages unless you trust the recipient."
+  },
+  "changes_to_terms": {
+    "updates": "Terms & Conditions may be updated from time to time. The 'effective_date' shows the latest revision.",
+    "user_responsibility": "Users are advised to review the terms periodically."
+  },
+  "governing_law": {
+    "jurisdiction": "These terms are governed by the laws of India and disputes are subject to the jurisdiction of courts in the city where Gedar Trader operates."
+  },
+  "contact": {
+    "primary": "For questions regarding these terms, message Gedar Trader on WhatsApp using the number listed in 'contact_whatsapp'.",
+    "developer": "The website developer acts only as a technology provider and is not a party to transactions or disputes."
+  }
+}
