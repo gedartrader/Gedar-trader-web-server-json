@@ -7,7 +7,7 @@
     "No user accounts, no logins, no registration.",
     "No data is collected or stored by the website itself.",
     "All enquiries are handled directly between the customer and Gedar Trader on WhatsApp.",
-    "The website and its developer do not act as a party to any sale, contract or service agreement — the customer transacts directly with Gedar Trader."
+    "The website and its developer do not act as a party to any sale, contract or service agreement - the customer transacts directly with Gedar Trader."
   ],
   "what_we_do_not_collect": {
     "personal_information": "The website does not collect names, emails, phone numbers, addresses, payment details or any personally identifiable information via forms, sign-ups, or server-side storage.",
@@ -20,7 +20,7 @@
     "visitor_action_required": "You must send the WhatsApp message to initiate communication. The website does not automatically send messages or collect your WhatsApp number; the conversation happens on WhatsApp between you and Gedar Trader."
   },
   "whatsapp_handling_and_data_visibility": {
-    "what_gedar_trader_sees": "When you message Gedar Trader on WhatsApp you are sharing information directly with Gedar Trader. WhatsApp may store conversation metadata according to WhatsApp's own policies — this is outside the control of the website.",
+    "what_gedar_trader_sees": "When you message Gedar Trader on WhatsApp you are sharing information directly with Gedar Trader. WhatsApp may store conversation metadata according to WhatsApp's own policies - this is outside the control of the website.",
     "what_website_developer_sees": "The website developer does NOT have access to WhatsApp conversations, customer phone numbers, or any private messages exchanged between customer and Gedar Trader.",
     "advice_to_customers": "Do not share sensitive personal or payment information over WhatsApp unless you are satisfied with the risk and have verified Gedar Trader's identity. Prefer in-person payment or verified payment channels as agreed with Gedar Trader."
   },
@@ -33,7 +33,7 @@
     "responsibility": "Clicking external links takes you to external services governed by their own terms and privacy policies."
   },
   "no_return_no_guarantee_no_claim_policy": {
-    "plain_language_statement": "As requested by the client: NO RETURN. NO GUARANTEE. NO CLAIM.",
+    "plain_language_statement": "NO RETURN. NO GUARANTEE. NO CLAIM.",
     "explanation": "All sales, custom jobs or service agreements made through direct WhatsApp negotiation between a customer and Gedar Trader are governed by terms agreed at the point of sale. Gedar Trader does not offer returns, guarantees or claims through this website. Customers are expected to confirm product details, measurements and expectations directly with Gedar Trader before payment or service commencement.",
     "customer_responsibility": "Customers must verify product suitability, dimensions, material, finishing and service scope with Gedar Trader before placing orders or making any payment."
   },
