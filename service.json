@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "name": "Custom Welding Fabrication",
+      "description": "We provide high-quality custom welding and fabrication for gates, grills, frames, and metal furniture. Each job is tailored to customer requirements with durable finishing.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758915667/customWelign_iwswv3.png"
+    },
+    {
+      "name": "Industrial Welding Repair",
+      "description": "Expert repair of broken or damaged industrial machinery parts, pipelines, and heavy-duty equipment using strong welding techniques for long-lasting results.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758915663/industrial_zp8mxk.png"
+    },
+    {
+      "name": "Stainless Steel Work",
+      "description": "Specialized stainless steel welding for railings, kitchen equipment, and decorative items with smooth finishing and corrosion resistance.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758915663/steel_siufor.png"
+    },
+    {
+      "name": "Aluminium Welding",
+      "description": "Professional aluminium welding service for doors, windows, frames, and lightweight structures ensuring strength and precision.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/uploadf_auto,q_auto/v1758915665/Aluminium_Welding_ebhnzy.png"
+    },
+    {
+      "name": "On-Site Welding Service",
+      "description": "We offer mobile on-site welding service for customers who require urgent repair or fabrication at their location, saving time and transportation hassle.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758915670/On-Site_Welding_Service_ujgpjt.png"
+    }
+  ]
+}
