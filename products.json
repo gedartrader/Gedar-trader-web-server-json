@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Steel Welding Rod",
+      "description": "High-quality steel welding rods suitable for all kinds of welding work. Durable and reliable for long-term projects.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 120,
+      "category": "Retail"
+    },
+    {
+      "id": 2,
+      "name": "Industrial Welding Torch",
+      "description": "Professional welding torch for industrial use. Ensures precision and safety during welding operations.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 4500,
+      "category": "Industrial"
+    },
+    {
+      "id": 3,
+      "name": "Aluminium Sheets Pack",
+      "description": "Pack of high-grade aluminium sheets, perfect for construction and fabrication projects. Corrosion-resistant.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 2500,
+      "category": "Commercial"
+    },
+    {
+      "id": 4,
+      "name": "Welding Helmet",
+      "description": "Safety helmet for welding with auto-darkening lens. Protects eyes and face during welding tasks.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 1800,
+      "category": "Retail"
+    },
+    {
+      "id": 5,
+      "name": "Metal Grinder",
+      "description": "Durable metal grinder for smoothing and shaping metals. Suitable for industrial and commercial applications.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 3200,
+      "category": "Industrial"
+    },
+    {
+      "id": 6,
+      "name": "Custom Steel Gate",
+      "description": "Tailor-made steel gates with decorative patterns. Strong, durable, and built to last.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 9500,
+      "category": "Commercial"
+    },
+    {
+      "id": 7,
+      "name": "Welding Clamps Set",
+      "description": "Set of welding clamps for holding metal pieces firmly in place during welding. Easy to use and durable.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 800,
+      "category": "Retail"
+    },
+    {
+      "id": 8,
+      "name": "Portable Welding Machine",
+      "description": "Compact and portable welding machine suitable for on-site jobs. Efficient and easy to operate.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 7200,
+      "category": "Industrial"
+    },
+    {
+      "id": 9,
+      "name": "Metal Cutting Saw",
+      "description": "Powerful metal cutting saw for precise cuts on steel and aluminium. Perfect for workshops and construction sites.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 4100,
+      "category": "Commercial"
+    },
+    {
+      "id": 10,
+      "name": "Safety Gloves for Welding",
+      "description": "Heat-resistant welding gloves to protect hands from sparks and hot metal. Comfortable and durable.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "price": 650,
+      "category": "Retail"
+    }
+  ]
+}
