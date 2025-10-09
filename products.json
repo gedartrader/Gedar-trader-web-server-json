@@ -34,43 +34,43 @@
     },
     {
       "id": 5,
-      "name": "Metal Grinder",
-      "description": "Durable metal grinder for smoothing and shaping metals. Suitable for industrial and commercial applications.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 3200,
-      "category": "Industrial"
+      "name": "Foldable Steel Clothes Drying Stand",
+      "description": "A strong and durable stand for drying clothes inside your home. Made from high-quality stainless steel to prevent rust. It has plenty of rods to hang all your laundry. Best part is, you can easily fold it and keep it in a corner when not in use. Perfect for apartments and rainy days.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998072/1000004200_x4gwc6.png",
+      "price": 1450,
+      "category": "Retail"
     },
     {
       "id": 6,
-      "name": "Custom Steel Gate",
-      "description": "Tailor-made steel gates with decorative patterns. Strong, durable, and built to last.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 9500,
+      "name": "Multi-Matka Stand with Glass Tray",
+      "description": "A strong and practical metal stand designed to hold up to three water pots (matkas). The top shelf has a special plate in the middle to keep glasses. This stand keeps your water pots safe and makes it easy for everyone to get water. Perfect for keeping your home or office hydrated, especially during hot summers.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998072/1000004125_khwhmc.png",
+      "price": 1850,
       "category": "Commercial"
     },
     {
       "id": 7,
-      "name": "Welding Clamps Set",
-      "description": "Set of welding clamps for holding metal pieces firmly in place during welding. Easy to use and durable.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 800,
+      "name": "Decorative Arc-Shaped Planter Stand",
+      "description": "A beautiful and uniquely designed arc-shaped stand to showcase your flower pots. Made from durable metal, this stand can hold three pots, creating a lovely rainbow-like display. The floral patterns add an extra touch of elegance. It's a perfect piece to decorate your garden, balcony, or any corner of your house.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998072/1000003763_yah3br.png",
+      "price": 1750,
       "category": "Retail"
     },
     {
       "id": 8,
-      "name": "Portable Welding Machine",
-      "description": "Compact and portable welding machine suitable for on-site jobs. Efficient and easy to operate.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 7200,
-      "category": "Industrial"
+      "name": "Tree-Style Multi-Level Planter Stand",
+      "description": "Bring nature indoors with this uniquely designed tree-shaped stand. Its vertical, multi-level 'branches' are perfect for displaying your collection of small pots, especially succulents. Made of strong metal with a stable base, it's both a practical and beautiful showpiece for any corner of your home. A great choice for plant lovers in Ganganagar to add more greenery in a stylish way.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998071/file_00000000ab5061f9b414a555f14fddf2_xqvghz.png",
+      "price": 2400,
+      "category": "Retail"
     },
     {
       "id": 9,
-      "name": "Metal Cutting Saw",
-      "description": "Powerful metal cutting saw for precise cuts on steel and aluminium. Perfect for workshops and construction sites.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 4100,
-      "category": "Commercial"
+      "name": "Stylish Two-Step Planter Stand",
+      "description": "A small and elegant stand to beautifully display a pair of your favourite plants. Its classic curvy design holds two pots at different heights, adding a touch of style to any space. Made from sturdy metal with a lovely cream finish, it's perfect for small corners, windowsills, or balconies. This design is great for enjoying the pleasant October weather in Ganganagar with some beautiful flowers on display.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998070/1000003776-removebg-preview_tjkudh.png",
+      "price": 950,
+      "category": "Retail"
     },
     {
       "id": 10,
