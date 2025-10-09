@@ -2,27 +2,27 @@
   "products": [
     {
       "id": 1,
-      "name": "Steel Welding Rod",
-      "description": "High-quality steel welding rods suitable for all kinds of welding work. Durable and reliable for long-term projects.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 120,
-      "category": "Retail"
+      "name": "Wire Mesh Utility Trolley Bin",
+      "description": "A strong and durable wire mesh bin with wheels for easy movement. Perfect for use as a dustbin in offices, a laundry basket at home, or for general storage in workshops. Built with high-quality iron for long life.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/file_00000000cc886243963beb11d622f73f_1_w0vklu.png",
+      "price": 2200,
+      "category": "Commercial"
     },
     {
       "id": 2,
-      "name": "Industrial Welding Torch",
-      "description": "Professional welding torch for industrial use. Ensures precision and safety during welding operations.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
-      "price": 4500,
-      "category": "Industrial"
+      "name": "Decorative Iron Trolley Stand",
+      "description": "A beautifully designed and strong iron trolley stand. Comes with wheels so you can easily move heavy items like gas cylinders, water campers, or big plant pots. Its decorative pattern looks good in any kitchen or balcony, and it also protects your floor from scratches and rust stains.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/1000003772_nnduta.png",
+      "price": 750,
+      "category": "Retail"
     },
     {
       "id": 3,
-      "name": "Aluminium Sheets Pack",
-      "description": "Pack of high-grade aluminium sheets, perfect for construction and fabrication projects. Corrosion-resistant.",
-      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/f_auto,q_auto/v1758921944/product_dummy_kwgrpv.png",
+      "name": "Multi-Tier Metal Plant Stand",
+      "description": "A stylish and modern multi-tier stand to display your beautiful plants. Made from strong metal, it can hold multiple pots at different levels, saving space and giving your balcony or room a neat look. Its vertical design is perfect for small spaces. Can also be used to keep books or other decorative items.",
+      "image": "https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/1000003753_dp1qff.png",
       "price": 2500,
-      "category": "Commercial"
+      "category": "Retail"
     },
     {
       "id": 4,
