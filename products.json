@@ -4,7 +4,8 @@
       "id": 1,
       "name": "Wire Mesh Utility Trolley Bin",
       "description": "A strong and durable wire mesh bin with wheels for easy movement. Perfect for use as a dustbin in offices, a laundry basket at home, or for general storage in workshops. Built with high-quality iron for long life.",
-      "image": ["https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/file_00000000cc886243963beb11d622f73f_1_w0vklu.png"],
+      "image": ["https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/file_00000000cc886243963beb11d622f73f_1_w0vklu.png","https://res.cloudinary.com/dea0erh2w/image/upload/v1759998073/1000003772_nnduta.png"],
+      "video":"https://youtube.com/shorts/cQpORJtrjzM?si=7eKCY-t-eNvdShqH",
       "price": 2200,
       "category": "Commercial"
     },
