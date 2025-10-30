@@ -80,15 +80,6 @@
       "image": ["https://res.cloudinary.com/dea0erh2w/image/upload/v1760001768/1000004181_1_hfnkxz.png"],
       "price": 650,
       "category": "Retail"
-    },
-    {
-      "id": 11,
-      "name": "Apj Abdul Kalam painting",
-      "description": "dessdfl;aksjdfajsldfjas",
-      "image": ["https://res.cloudinary.com/dxiiwhqnv/image/upload/v1761856300/download-removebg-preview_u81z86.png","https://res.cloudinary.com/dxiiwhqnv/image/upload/v1761856304/download_ikhiaz.png"],
-      "price": 2000,
-      "category": "decor",
-      "video": "https://youtube.com/shorts/cQpORJtrjzM?si=7eKCY-t-eNvdShqH"
     }
   ]
 }
