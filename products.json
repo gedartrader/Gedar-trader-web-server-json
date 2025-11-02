@@ -80,15 +80,6 @@
       "image": ["https://res.cloudinary.com/dea0erh2w/image/upload/v1760001768/1000004181_1_hfnkxz.png"],
       "price": 650,
       "category": "Retail"
-    },
-    {
-      "id": 11,
-      "name": "demo product",
-      "description": "demo description",
-      "image": ["https://res.cloudinary.com/dxiiwhqnv/image/upload/v1761856304/download_ikhiaz.png","https://res.cloudinary.com/dea0erh2w/image/upload/v1760001768/1000004181_1_hfnkxz.png"],
-      "price": 500,
-      "category": "new",
-      "video":"https://youtu.be/SyD4XvHJzmw?si=k7-cTCewUiQNkdxH"
     }
   ]
 }
